@@ -171,7 +171,7 @@ p {
     width: 400px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     padding: 1.5rem 4.5rem;
-    border-radius: 12px;
+    border-radius: 24px;
     background-color: white;
     display: flex;
     flex-direction: column;
